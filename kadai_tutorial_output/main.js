@@ -8,6 +8,7 @@ const untypedfield = document.getElementById('untyped');
 const typedfield = document.getElementById('typed');
 const wrap = document.getElementById('wrap');
 const start = document.getElementById('start');
+const count = document.getElementById('count');
 
 // 複数のテキストを格納する配列
 const textLists = [
