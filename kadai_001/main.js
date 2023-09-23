@@ -80,7 +80,7 @@ const keyPress = e => {
     if(untyped === ''){
         createText();
         //初期化
-        typenum.textContent = 0;
+        // typenum.textContent = 0;
     }
 };
 
