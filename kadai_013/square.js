@@ -2,4 +2,4 @@ const square = (num) => {
     return num*num;
 }
 
-square(9);
+console.log(square(9));
